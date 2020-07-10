@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 71057197bb68b8c4aa4ebde9c7dd7be2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5039103289665944540
+    second: effect_015_tearpoofb_0
+  - first:
+      213: 474679708991199446
+    second: effect_015_tearpoofb_1
+  - first:
+      213: 6301007202415956323
+    second: effect_015_tearpoofb_2
+  - first:
+      213: 8264700815828543334
+    second: effect_015_tearpoofb_3
+  - first:
+      213: 7141604525406035606
+    second: effect_015_tearpoofb_4
+  - first:
+      213: 7331080092653853258
+    second: effect_015_tearpoofb_5
+  - first:
+      213: 8236290458736775066
+    second: effect_015_tearpoofb_6
+  - first:
+      213: 9221615130638464930
+    second: effect_015_tearpoofb_7
+  - first:
+      213: -6823060709261276189
+    second: effect_015_tearpoofb_8
+  - first:
+      213: 4616794199454533886
+    second: effect_015_tearpoofb_9
+  - first:
+      213: 1469742543938141468
+    second: effect_015_tearpoofb_10
+  - first:
+      213: 3904466676640702928
+    second: effect_015_tearpoofb_11
+  - first:
+      213: -4370008120096965772
+    second: effect_015_tearpoofb_12
+  - first:
+      213: -6853770684716432087
+    second: effect_015_tearpoofb_13
+  - first:
+      213: -939882922148630665
+    second: effect_015_tearpoofb_14
+  - first:
+      213: -5168339848451318166
+    second: effect_015_tearpoofb_15
+  - first:
+      213: -8588941046523649948
+    second: effect_015_tearpoofb_16
+  - first:
+      213: 8074223498169811972
+    second: effect_015_tearpoofb_17
+  - first:
+      213: -6435504570104045000
+    second: effect_015_tearpoofb_18
+  - first:
+      213: -6875512789799264403
+    second: effect_015_tearpoofb_19
+  - first:
+      213: -4320870280364201491
+    second: effect_015_tearpoofb_20
+  - first:
+      213: -651379753255865922
+    second: effect_015_tearpoofb_21
+  - first:
+      213: -2930063440657067941
+    second: effect_015_tearpoofb_22
+  - first:
+      213: 3528322141028199272
+    second: effect_015_tearpoofb_23
+  - first:
+      213: 6399710252152601106
+    second: effect_015_tearpoofb_24
+  - first:
+      213: -6095598917492164794
+    second: effect_015_tearpoofb_25
+  - first:
+      213: -3861503104326619980
+    second: effect_015_tearpoofb_26
+  - first:
+      213: -1273810016375855161
+    second: effect_015_tearpoofb_27
+  - first:
+      213: 7227047140369429391
+    second: effect_015_tearpoofb_28
+  - first:
+      213: 2216348462760419441
+    second: effect_015_tearpoofb_0
+  - first:
+      213: 8308329850171987592
+    second: effect_015_tearpoofb_1
+  - first:
+      213: 2392233223086057609
+    second: effect_015_tearpoofb_2
+  - first:
+      213: 1061809726597435325
+    second: effect_015_tearpoofb_3
+  - first:
+      213: -1686557936680205890
+    second: effect_015_tearpoofb_4
+  - first:
+      213: 6496809526949160938
+    second: effect_015_tearpoofb_5
+  - first:
+      213: -7771923508159677326
+    second: effect_015_tearpoofb_6
+  - first:
+      213: -6046458253296696145
+    second: effect_015_tearpoofb_7
+  - first:
+      213: -942666839268687984
+    second: effect_015_tearpoofb_8
+  - first:
+      213: 1085708715280378937
+    second: effect_015_tearpoofb_9
+  - first:
+      213: -7713175134611968462
+    second: effect_015_tearpoofb_10
+  - first:
+      213: 2829874850553795834
+    second: effect_015_tearpoofb_11
+  - first:
+      213: -1081268457580941161
+    second: effect_015_tearpoofb_12
+  - first:
+      213: -683076330920695241
+    second: effect_015_tearpoofb_13
+  - first:
+      213: -4718930943162019079
+    second: effect_015_tearpoofb_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17061552f2d02ce10800000000000000
+      internalID: 2216348462760419441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8869644bafd1d4370800000000000000
+      internalID: 8308329850171987592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988aee9117be23120800000000000000
+      internalID: 2392233223086057609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf05e4125e4cbe00800000000000000
+      internalID: 1061809726597435325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18f0b0e742898e0800000000000000
+      internalID: -1686557936680205890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ad2bd7dd492a50800000000000000
+      internalID: 6496809526949160938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c72aa2fb4942490800000000000000
+      internalID: -7771923508159677326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4850f014aa61ca0800000000000000
+      internalID: -6046458253296696145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f79df0189fae2f0800000000000000
+      internalID: -942666839268687984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c25dff256311f00800000000000000
+      internalID: 1085708715280378937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee31bc41c45f490800000000000000
+      internalID: -7713175134611968462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4121aee2cb54720800000000000000
+      internalID: 2829874850553795834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790bd0f01109ef0f0800000000000000
+      internalID: -1081268457580941161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aaef432b93586f0800000000000000
+      internalID: -683076330920695241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_015_tearpoofb_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29a352f4df28eb0800000000000000
+      internalID: -4718930943162019079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 6e00b1dab1086a141aaca643af0f16ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -109070266779604721
+    second: monster_012_pooter_0
+  - first:
+      213: -6605156179437804005
+    second: monster_012_pooter_1
+  - first:
+      213: 1016685341616626371
+    second: monster_012_pooter_2
+  - first:
+      213: 8945210060211709596
+    second: monster_012_pooter_3
+  - first:
+      213: 5441538338714640008
+    second: monster_012_pooter_4
+  - first:
+      213: 3370555545145113149
+    second: monster_012_pooter_5
+  - first:
+      213: 7249106645817577098
+    second: monster_012_pooter_6
+  - first:
+      213: -5754349904928668552
+    second: monster_012_pooter_7
+  - first:
+      213: -4947656596612739158
+    second: monster_012_pooter_8
+  - first:
+      213: -2960401013657472213
+    second: monster_012_pooter_9
+  - first:
+      213: 7766103457673590976
+    second: monster_012_pooter_10
+  - first:
+      213: -4325897018064082006
+    second: monster_012_pooter_11
+  - first:
+      213: 7988952122249754424
+    second: monster_012_pooter_12
+  - first:
+      213: 7691346775099934575
+    second: monster_012_pooter_13
+  - first:
+      213: 2335084286908403659
+    second: monster_012_pooter_14
+  - first:
+      213: -3849606824893541897
+    second: monster_012_pooter_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster_012_pooter_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 105
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5331334, y: 0.43911695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096b059b218c7ef0800000000000000
+      internalID: -109070266779604721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49006, y: 0.34692305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1622ae4375c554a0800000000000000
+      internalID: -6605156179437804005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.52609205, y: 0.33154216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad76b7eedfb1e00800000000000000
+      internalID: 1016685341616626371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.526093, y: 0.3022453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966b20f725c32c70800000000000000
+      internalID: 8945210060211709596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 21
+        height: 14
+      alignment: 9
+      pivot: {x: 0.51988, y: 0.39065933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e51ced94a348b40800000000000000
+      internalID: 5441538338714640008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 75
+        width: 21
+        height: 14
+      alignment: 9
+      pivot: {x: 0.50662667, y: 0.3906588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3af81c096e96ce20800000000000000
+      internalID: 3370555545145113149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5309241, y: 0.30672115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e41e246100a9460800000000000000
+      internalID: 7249106645817577098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5541183, y: 0.3144523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748c63df317420b0800000000000000
+      internalID: -5754349904928668552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 35
+        width: 11
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46204653, y: 0.40402707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf87480a84665bb0800000000000000
+      internalID: -4947656596612739158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 12
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.383105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b237d3486fa8ae6d0800000000000000
+      internalID: -2960401013657472213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 24
+        height: 11
+      alignment: 9
+      pivot: {x: 0.49420133, y: 0.3987919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8319bb2fdb6cb60800000000000000
+      internalID: 7766103457673590976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.508698, y: 0.31689373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab6e57e49357f3c0800000000000000
+      internalID: -4325897018064082006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5077309, y: 0.4381506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837bc4eb0a57ede60800000000000000
+      internalID: 7988952122249754424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 9
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4801197, y: 0.34692317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678d2634272dba60800000000000000
+      internalID: 7691346775099934575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 9
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48011997, y: 0.43911695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf85c189c2e76020800000000000000
+      internalID: 2335084286908403659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_012_pooter_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 9
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.48011997, y: 0.33996516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f11d452df2739ac0800000000000000
+      internalID: -3849606824893541897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
